@@ -52,17 +52,3 @@ form input.equal{
 form input.operator{
     color: #21b183;
 }
-.dark-mode{
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    width: 30px;
-    cursor: pointer;
-}
-.light-mode{
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    width: 30px;
-    cursor: pointer;
-}
